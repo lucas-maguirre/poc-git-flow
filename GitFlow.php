@@ -6,4 +6,9 @@ class GitFlow
     {
         echo 'Olá';
     }
+
+    public function metodo()
+    {
+
+    }
 }
